@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cekil&show_icons=true)
+# ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cekil&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cekil&theme=blue-green)
-![Your Repository's Stats](https://contrib.rocks/image?repo=cekil/Python)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=cekil)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/cekil/Python)
