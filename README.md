@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cekil&show_icons=true) -->
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cekil)
-![Profile View Counter](https://komarev.com/ghpvc/?username=cekil)
+<!--[Profile View Counter](https://komarev.com/ghpvc/?username=cekil)  -->
