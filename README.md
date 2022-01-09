@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### About Me:
 
-- 🔭 I use Java Stack technologies
+- 🔭 I use Java Stack technologies, Reactjs and Rust
 - 📫 Contact to me about software engineering, software design, architectural principles and distributed systems <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-burakcekil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burakcekil/)](https://www.linkedin.com/in/burakcekil/) [![Website Badge](https://img.shields.io/website?down_color=red&down_message=down&label=https://burakcekil.com&up_color=green&up_message=up&url=https%3A%2F%2Fburakcekil.com)](https://burakcekil.com)
 
