@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://burakcekil.com/resources/sailing.jpeg" title="hover text">
+</p>
+
 
 `whoami` 👋
 
-- 🔭 I am working areas of Java based technologies and Rust
+- ⛵️ I am working areas of Java based technologies and Rust
 - 📫 Contact to me via: [![Linkedin Badge](https://img.shields.io/badge/-burakcekil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burakcekil/)](https://www.linkedin.com/in/burakcekil/) or [![Website Badge](https://img.shields.io/website?down_color=red&down_message=down&label=burakcekil.com&style=flat-square&up_color=green&up_message=up&url=http%3A%2F%2Fburakcekil.com)](https://burakcekil.com)
 
 
