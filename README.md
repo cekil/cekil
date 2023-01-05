@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://burakcekil.com/resources/sailing.jpeg" title="hover text">
+  <img src="https://burakcekil.com/resources/sailing_.jpeg" title="hover text">
 </p>
 
 
