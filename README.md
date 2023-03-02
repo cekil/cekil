@@ -49,7 +49,7 @@
   <br>
 <h3 align="center">hibernate practices</h3>
 <div align="center">                                       
-<a href="https://github.com/cekil/hibernate-practices" target="_blank"><img src="https://burakcekil.com/resources/hibernate_1.jpg" width="200" alt="hibernate practices"></a>
+<a href="https://github.com/cekil/hibernate-practices" target="_blank"><img src="https://burakcekil.com/resources/hibernate.jpg" width="200" alt="hibernate practices"></a>
 <br>
 <br>
 <p>
