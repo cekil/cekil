@@ -29,7 +29,7 @@
 <td width="50%">
 <h3 align="center">rust tutorials</h3>
 <div align="center">
-<a href="https://github.com/cekil/rust-tutorials" target="_blank"><img src="https://burakcekil.com/resources/rust_1.jpg" width="400" alt="rust tutorials"></a>
+<a href="https://github.com/cekil/rust-tutorials" target="_blank"><img src="https://burakcekil.com/resources/rust_1.jpg" width="200" alt="rust tutorials"></a>
   <br>
 <br>
 <p>
@@ -49,7 +49,7 @@
   <br>
 <h3 align="center">hibernate practices</h3>
 <div align="center">                                       
-<a href="https://github.com/cekil/hibernate-practices" target="_blank"><img src="https://burakcekil.com/resources/hibernate_1.jpg" width="400" alt="hibernate practices"></a>
+<a href="https://github.com/cekil/hibernate-practices" target="_blank"><img src="https://burakcekil.com/resources/hibernate_1.jpg" width="200" alt="hibernate practices"></a>
 <br>
 <br>
 <p>
