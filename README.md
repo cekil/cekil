@@ -29,7 +29,7 @@
 <td width="50%">
 <h3 align="center">rust tutorials</h3>
 <div align="center">
-<a href="https://github.com/cekil/rust-tutorials" target="_blank"><img src="https://burakcekil.com/resources/rust_1.jpg" width="200" alt="rust tutorials"></a>
+<a href="https://github.com/cekil/rust-tutorials" target="_blank"><img src="https://burakcekil.com/resources/rust.jpg" width="200" alt="rust tutorials"></a>
   <br>
 <br>
 <p>
