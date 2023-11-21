@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://burakcekil.com/resources/sailing_3.jpeg" title="hover text">
+  <img src="https://about.burakcekil.com/resources/sailing_4.jpeg" title="hover text">
 </p>
 
 
 `a, hoy, ahoy`
 
 - working areas of Java based technologies and Rust
-- contact : [![Linkedin Badge](https://img.shields.io/badge/-burakcekil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burakcekil/)](https://www.linkedin.com/in/burakcekil/) or  [![Website Badge](https://img.shields.io/website?down_color=red&down_message=down&label=burakcekil.com&style=flat-square&up_color=green&up_message=up&url=http%3A%2F%2Fburakcekil.com)](https://burakcekil.com)
+- contact : [![Linkedin Badge](https://img.shields.io/badge/-burakcekil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burakcekil/)](https://www.linkedin.com/in/burakcekil/) or  [![Website Badge](https://img.shields.io/website?down_color=red&down_message=down&label=about.burakcekil.com&style=flat-square&up_color=green&up_message=up&url=http%3A%2F%2Fabout.burakcekil.com)](https://about.burakcekil.com)
 
 
 `stackshare`
@@ -18,7 +18,7 @@
 
 `blog`
 
-- [![Website Badge](https://img.shields.io/website?down_color=red&down_message=down&label=blog.burakcekil.com&style=flat-square&up_color=green&up_message=up&url=http%3A%2F%2Fburakcekil.com)](https://blog.burakcekil.com)
+- [![Website Badge](https://img.shields.io/website?down_color=red&down_message=down&label=burakcekil.com&style=flat-square&up_color=green&up_message=up&url=http%3A%2F%2Fburakcekil.com)](https://burakcekil.com)
 
 
 <h3 align="center">featured projects</h3>
@@ -29,7 +29,7 @@
 <td width="50%">
 <h3 align="center">rust tutorials</h3>
 <div align="center">
-<a href="https://github.com/cekil/rust-tutorials" target="_blank"><img src="https://burakcekil.com/resources/rust.jpg" width="200" alt="rust tutorials"></a>
+<a href="https://github.com/cekil/rust-tutorials" target="_blank"><img src="https://about.burakcekil.com/resources/rust.jpg" width="200" alt="rust tutorials"></a>
   <br>
 <br>
 <p>
@@ -49,7 +49,7 @@
   <br>
 <h3 align="center">hibernate practices</h3>
 <div align="center">                                       
-<a href="https://github.com/cekil/hibernate-practices" target="_blank"><img src="https://burakcekil.com/resources/hibernate.jpg" width="200" alt="hibernate practices"></a>
+<a href="https://github.com/cekil/hibernate-practices" target="_blank"><img src="https://about.burakcekil.com/resources/hibernate.jpg" width="200" alt="hibernate practices"></a>
 <br>
 <br>
 <p>
